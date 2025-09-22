@@ -6,7 +6,7 @@
 This project implements a lightweight, real-time anomaly detection system for vibration sensor data, simulating an Arduino environment. The system is designed for predictive maintenance on industrial equipment.
 
 ## Google Colab Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/EdgeAI-Vibration-Anomaly-Detection/blob/main/Vibration_Anomaly_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MUDITKUMARSINGH25/EdgeAI-Vibration-Anomaly-Detection/blob/main/Vibration_Anomaly_Detection.ipynb)
 
 Click the button above to open the notebook in Google Colab and run the simulation immediately!
 
