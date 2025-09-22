@@ -26,7 +26,7 @@ This approach is computationally efficient, making it ideal for resource-constra
 ## Results
 The system successfully detects injected anomalies while maintaining a low false-positive rate during normal operation.
 
-![Anomaly Detection Results](https://github.com/your-username/EdgeAI-Vibration-Anomaly-Detection/raw/main/anomaly_detection_plot.png)
+![Anomaly Detection Results](https://github.com/MUDITKUMARSINGH25/EdgeAI-Vibration-Anomaly-Detector/blob/main/anomaly_detection_plot.png)
 
 ## Future Work
 - Port to a real Arduino Nano 33 BLE Sense board
